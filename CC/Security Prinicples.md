@@ -13,3 +13,5 @@ Regulations: are commonly issued in the form of laws, usually from the governmen
 
 
 
+DRP Disaster Recover Plan: guides the actions of emergency personnel until the end goal is reached, which is to see the business restored to full, last-known, reliable operations. Targets the restoration of IT and communications services essential for business oeprations. 
+
